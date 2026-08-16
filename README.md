@@ -1,29 +1,58 @@
 # Raj Kunwar Singh
 
-Full-stack and AI engineer. India, IST.
+**I replace expensive manual processes with systems that run themselves.**
 
-Most of what I build is proprietary or under NDA, so this profile is quieter
-than my actual work. What I ship looks like this:
+Full-stack and AI engineer. India, IST. Available for fixed-scope contract work.
 
-**Automated CI failure triage** — a fintech running 600+ jobs a night. Engineers
-were spending three to four days per broken build reading logs by hand. The
-system parses and classifies unstructured logs and returns the diagnosis in
-about thirty minutes. Roughly 90% of that manual investigation is gone.
+---
 
-**LLM script generation** — turns recordings into framework-compliant automation
-scripts. Hours of manual work down to minutes. Structured outputs with
-guardrails, not free-text generation.
+Most of what I build is proprietary or under NDA, so this profile is quieter than my
+actual work. Here is what I ship.
 
-**A twelve-role operations platform** — web and native mobile, built solo,
-architecture through deployment. Permissions enforced at the database layer
-rather than trusted to application code.
+### Automated CI failure triage
+A fintech running 600+ jobs a night. Engineers were spending three to four days per
+broken build reading logs by hand to find the cause. The system parses and classifies
+unstructured logs and returns the diagnosis in about thirty minutes. Roughly **90% of
+that manual investigation is gone.**
 
-**Motorlane** — a dealership platform I built end to end: inventory, listings,
-enquiry flow, and an LLM pipeline that writes listing copy with brand
-guardrails. Live at https://motorlane-xi.vercel.app
+Evals came before features — a confident wrong diagnosis costs more than no diagnosis.
 
-Stack: Python/FastAPI/Django · TypeScript/Next.js/Node · React Native · Postgres
-Daily tools: Claude Code, Cursor, MCP workflows
+### LLM script generation
+Turns recordings into framework-compliant automation scripts. **Hours of manual work,
+now minutes.** Structured outputs with guardrails that hold, not free-text generation.
 
-Available for fixed-scope contract work.
-https://raj-portfolio-peach.vercel.app
+### A twelve-role operations platform
+Web and native mobile, built solo, architecture through deployment. Twelve distinct
+professional roles, each with its own workflow. Permissions enforced at the database
+layer rather than trusted to application code — permission logic that lives in the app
+is permission logic that eventually gets bypassed.
+
+### Motorlane
+A dealership platform I built end to end: inventory, listings, enquiry flow, and an LLM
+pipeline that writes listing copy with brand guardrails.
+→ [motorlane-xi.vercel.app](https://motorlane-xi.vercel.app)
+
+---
+
+### Public code
+
+[**dealer-seo-audit**](https://github.com/reaper2405/dealer-seo-audit) — single-file,
+stdlib-only Python. Audits a car dealership's site and reports what is costing them
+enquiries, ranked by how easily each finding can be demonstrated to a non-technical
+owner.
+
+---
+
+### Stack
+
+Python · FastAPI · Django · TypeScript · Next.js · Node · React · React Native · Postgres
+
+Daily: Claude Code, Cursor, MCP workflows
+
+---
+
+### Working together
+
+Fixed scope, fixed price. I write the code myself.
+
+**[80-second intro](https://www.loom.com/share/91cd0e0212f04274939b845097f3a102)** · **[Portfolio](https://raj-portfolio-peach.vercel.app)**
