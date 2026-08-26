@@ -2,7 +2,7 @@
 
 **I replace expensive manual processes with systems that run themselves.**
 
-Full-stack and AI engineer. India, IST. Available for fixed-scope contract work.
+Full-stack and AI engineer. Available for fixed-scope contract work.
 
 ---
 
@@ -55,4 +55,4 @@ Daily: Claude Code, Cursor, MCP workflows
 
 Fixed scope, fixed price. I write the code myself.
 
-**[80-second intro](https://www.loom.com/share/91cd0e0212f04274939b845097f3a102)** · **[Portfolio](https://raj-portfolio-peach.vercel.app)**
+**[80-second intro](https://www.loom.com/share/91cd0e0212f04274939b845097f3a102)**
