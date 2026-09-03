@@ -2,7 +2,7 @@
 
 **I replace expensive manual processes with systems that run themselves.**
 
-Full-stack and AI engineer. Available for fixed-scope contract work.
+Full-stack and AI engineer.
 
 ---
 
