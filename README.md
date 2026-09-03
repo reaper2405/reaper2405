@@ -50,9 +50,3 @@ Python · FastAPI · Django · TypeScript · Next.js · Node · React · React N
 Daily: Claude Code, Cursor, MCP workflows
 
 ---
-
-### Working together
-
-Fixed scope, fixed price. I write the code myself.
-
-**[80-second intro](https://www.loom.com/share/91cd0e0212f04274939b845097f3a102)**
